@@ -19,7 +19,7 @@
 
 一名在 **Canyon** 的 Structural R&D Engineer  
 喜欢 **Manga·Anime·Linux**，十分期待 **AGI**  
-沉迷 **动漫，Arch，Galgame** 中
+沉迷 **Code，Arch，Galgame** 中
 
 喜欢 **C/C++**，试图成为带动社区发展的一份子
 
